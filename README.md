@@ -68,6 +68,6 @@ Veröffentlicht unter der MIT License. Siehe `LICENSE` für weitere Informatione
 
 ## 📞 Kontakt
 
-Mary - [Mail](mailto:mail@mary-schneider.de) / Discord: tiredmary
+Mary - [Mail](mailto:tiredmary1@gmail.com) / Discord: tiredmary
 
 Projekt-Link: [https://github.com/tiredmary/spyral](https://github.com/tiredmary/spyral)
