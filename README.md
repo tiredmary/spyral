@@ -30,7 +30,7 @@ Was du benötigst:
 
 1.  **Repository klonen:**
     ```bash
-    git clone [https://github.com/tiredmary/spyral.git](https://github.com/tiredmary/spyral.git)
+    git clone https://github.com/tiredmary/spyral.git
     cd spyral
     ```
 2.  **NPM-Pakete installieren:**
